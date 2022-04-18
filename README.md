@@ -1,4 +1,4 @@
-# Mushroom-Classification-Using-Machine-Learning
+# Mushroom Classification Using Machine Learning
 I have used Streamlit to create a web app
 The binary classification predicts whether the mushroom is poisonous or edible.
 
